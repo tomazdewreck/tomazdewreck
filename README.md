@@ -1,5 +1,5 @@
 ## Olá eu sou a Tomaz Dewreck
-  ##Desenvolvedor de software!
+ 
 
 
 
